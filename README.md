@@ -23,7 +23,7 @@
 |Week of Jan. 29| [Intrusion Response througn Optimal Stopping](https://ieeexplore.ieee.org/document/9779345)|[Kim Hammar](https://www.kth.se/profile/kimham)||[Zoom recording](https://zoom.us/rec/play/WSGTADhh7tTtTMbYdS5jgCFiugF87iDJ-oQMUQZfksytIzmEHwQE08YXH_icdm3IAIh_Fhy71Yn9dKvH.zNMosS8kXCERYsjJ?continueMode=true&iet=0nFz9exhZqqxm69DWRxz7-5NGD2rdz6T1avaamqtsWc.AG.cFASyY25dliqFyuIDMm7uG-fpL6soBpIz7xlhPgtmzxpX_nvGJF_KFhovnFsHtYrPHoAOV1iXQrqc2nOWvvo6Pia0kexygfYeW0moos39khiFzonnRA.fibFbp-uAylUBKWMtHJ7JA.mxOCgTNgB7gFKdAp) |
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods]()   |    Yunian Pan  |       Seminar series    |   |
 |Week of Feb. 12|     |[Abhishek N. Kulkarni](https://akulkarni.me/)| |||
-|Week of Feb. 19|     |   [Khushboo Agarwal](https://www.ieor.iitb.ac.in/students/khushboo)                    |               |          |    |
+|Week of Feb. 19|  [Single-out fake posts: participation game and its design](https://drive.google.com/file/d/1kCibCI-Tv-lC-f8wzFdhIOohBVg6m5Qa/view?usp=sharing)   |   [Khushboo Agarwal](https://www.ieor.iitb.ac.in/students/khushboo)                    |               |          |    |
 |Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three]()   |       Tao Li             |     Seminar series          |          |    |
 |Week of Mar. 5 |  AI Insurance   |    Yunfei Ge                   |               |          |    |
 |Week of Mar. 12|     |    Yuhan Zhao         |               |          |    |
