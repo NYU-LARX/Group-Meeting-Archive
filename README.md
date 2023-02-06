@@ -27,11 +27,11 @@
 |Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three]()   |       Tao Li             |     Seminar series          |          |    |
 |Week of Mar. 5 |  AI Insurance   |    Yunfei Ge                   |               |          |    |
 |Week of Mar. 12|     |    Yuhan Zhao         |               |          |    |
-|Week of Mar. 19|     |    Ya-ting and Haozhe                   |               |          |    |
+|Week of Mar. 19|     |                       |               |          |    |
 |Week of Mar. 26|  Gaslighting in Partially Observable Systems  | Liu Shutian                      |               |          |    |
 |Week of Apr. 2 |     |    Tao Zhang                   |               |          |    |
 |Week of Apr. 9 |     |    Xiangjiang and Patrick                  |               |          |    |
-|Week of Apr. 16|     |                       |               |          |    |
+|Week of Apr. 16|     |   Ya-ting and Haozhe           |               |          |    |
 |Week of Apr. 23|     |  Yinan Hu               |               |          |    |
 |Week of Apr. 30|     |                       |               |          |    |
 |Week of May 7  |     |                       |               |          |    |
