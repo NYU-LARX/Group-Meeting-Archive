@@ -26,14 +26,14 @@
 |Week of Feb. 19|  [Single-out fake posts: participation game and its design](https://drive.google.com/file/d/1kCibCI-Tv-lC-f8wzFdhIOohBVg6m5Qa/view?usp=sharing)   |   [Khushboo Agarwal](https://www.ieor.iitb.ac.in/students/khushboo)                    |               |          |    |
 |Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three]()   |       Tao Li             |     Seminar series          |          |    |
 |Week of Mar. 5 |  AI Insurance   |    Yunfei Ge                   |               |          |    |
-|Week of Mar. 12|     |    Yuhan Zhao         |               |          |    |
+|Week of Mar. 12|     |      [Lyle Kim](https://jlylekim.github.io/)       |               |          |    |
 |Week of Mar. 19|     |   [Zifan Wang](https://sites.google.com/west.cmu.edu/zifan-wang/home) |               |          |    |
 |Week of Mar. 26|  Gaslighting in Partially Observable Systems  | Liu Shutian                      |               |          |    |
 |Week of Apr. 2 |     |    Tao Zhang                   |               |          |    |
 |Week of Apr. 9 |     |    Xiangjiang and Patrick                  |               |          |    |
 |Week of Apr. 16|     |   Ya-ting and Haozhe           |               |          |    |
 |Week of Apr. 23|     |  Yinan Hu               |               |          |    |
-|Week of Apr. 30|     |                       |               |          |    |
+|Week of Apr. 30|     |    Yuhan Zhao                   |               |          |    |
 |Week of May 7  |     |                       |               |          |    |
 |Week of May 14 |     |                       |               |          |    |
 |Week of May 21 |     |                       |               |          |    |
