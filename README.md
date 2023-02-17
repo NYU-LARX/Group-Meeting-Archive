@@ -35,7 +35,7 @@
 |Week of Apr. 23|     |  Yinan Hu               |               |          |    |
 |Week of Apr. 30|     |    Yuhan Zhao                   |               |          |    |
 |Week of May 7  |     |                       |               |          |    |
-|Week of May 14 |     |                       |               |          |    |
+|Week of May 14 |     |  [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                  |               |          |    |
 |Week of May 21 |     |                       |               |          |    |
 |Week of May 28 |     |                       |               |          |    |
 
