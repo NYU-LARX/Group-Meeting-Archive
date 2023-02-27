@@ -24,7 +24,7 @@
 |  Week of Feb. 5    | [Revisiting Small-Ball Methods](https://drive.google.com/file/d/1mRyqoQW0tGjw9eWA8-9bHWnijzvn3ePy/view?usp=sharing)   |    Yunian Pan  |       Seminar series    |   |
 |Week of Feb. 12|  [Deceptive and Opportunistic Planning in Games on Graphs: A Formal-methods Approach](https://ieeexplore.ieee.org/document/9136805)   |[Abhishek N. Kulkarni](https://akulkarni.me/)| |[Zoom recording](https://nyu.zoom.us/rec/share/OoS4iAxR8bVt6BhFyJqzgpjTZz_WcLO5xnQ00HkWbxoqqPg3AhZjoBPvre_M5Dhq.VMENLJh6jRNQkEz1 )|
 |Week of Feb. 19| ~~[Single-out fake posts: participation game and its design](https://drive.google.com/file/d/1kCibCI-Tv-lC-f8wzFdhIOohBVg6m5Qa/view?usp=sharing)~~ |   [Khushboo Agarwal](https://www.ieor.iitb.ac.in/students/khushboo)          |    $\color{red}{Cancelled}$   |          |    |
-|Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three]()   |       Tao Li             |     Seminar series          |          |    |
+|Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three](https://drive.google.com/file/d/1nomkGVvcpbXhs0KAlXgR1yjhTiamIZvl/view?usp=sharing)   |       Tao Li             |     Seminar series          |          |    |
 |Week of Mar. 5 |  AI Insurance   |    Yunfei Ge                   |               |          |    |
 |Week of Mar. 12|     |      [Lyle Kim](https://jlylekim.github.io/)       |               |          |    |
 |Week of Mar. 19|     |   [Zifan Wang](https://sites.google.com/west.cmu.edu/zifan-wang/home) |               |          |    |
