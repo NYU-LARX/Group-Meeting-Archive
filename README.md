@@ -27,7 +27,7 @@
 |Week of Feb. 26|  [On the Information Structures in Mirror Descent Part Three](https://drive.google.com/file/d/1nomkGVvcpbXhs0KAlXgR1yjhTiamIZvl/view?usp=sharing)   |       Tao Li             |     Seminar series          |          |    |
 |Week of Mar. 5 |  [AI Liability Insurance](https://drive.google.com/file/d/17Ki7JoMbnKv8l6-azwinaZ3COk8mSbxU/view?usp=sharing)   |    Yunfei Ge                   |             |       [Zoom recording](https://nyu.zoom.us/rec/share/0hA9P5grH-3x93OMvDwuZOeveTYaegeYZvFEPfwwbavRPsvvEd3XPWVVmO2jKgt-.HETrLvNcHNKYfhNZ)    |    |
 |Week of Mar. 12|  [Towards large-scale quantum state tomography: a non-convex, accelerated, and distributed approach](https://ieeexplore.ieee.org/abstract/document/9810003)    |      [Lyle Kim](https://jlylekim.github.io/)       |               |    [Zoom recording](https://nyu.zoom.us/rec/share/9HVHzKoDs1fxvX9148YhppGurDvB2aiyoBdafaonlnYKSsiOVom4qbSJGLGGN14K.aejRM2ZJ0-sucA3T)       |    |
-|Week of Mar. 19|     |   [Zifan Wang](https://sites.google.com/west.cmu.edu/zifan-wang/home) |               |          |    |
+|Week of Mar. 19|  [Distributional Learning in Control and Games](https://icml.cc/Conferences/2022/ScheduleMultitrack?event=16588)   |   [Zifan Wang](https://www.kth.se/profile/zifanw) |               |          |    |
 |Week of Mar. 26|  Gaslighting in Partially Observable Systems  | Liu Shutian                      |               |          |    |
 |Week of Apr. 2 |     |    Tao Zhang                   |               |          |    |
 |Week of Apr. 9 |     |    Xiangjiang and Patrick                  |               |          |    |
