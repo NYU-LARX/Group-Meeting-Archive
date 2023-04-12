@@ -34,7 +34,7 @@
 |Week of Apr. 16|     |   Ya-ting and Haozhe           |               |          |    |
 |Week of Apr. 23| [Approximate Methods of Optimal Control via Dynamic Programming Models](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324294)  |  [Yuchao Li](https://yuchaotaigu.github.io/index.html)            |               |          |    |
 |Week of Apr. 30|     |    Yuhan Zhao                   |               |          |    |
-|Week of May 7  |     |                       |               |          |    |
+|Week of May 7  |     |    Danny and Vijay                   |               |          |    |
 |Week of May 14 |     |  [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                  |               |          |    |
 |Week of May 21 |     |                       |               |          |    |
 |Week of May 28 |     |                       |               |          |    |
