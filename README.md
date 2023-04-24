@@ -30,7 +30,7 @@
 |Week of Mar. 19|  [Distributional Learning in Control and Games](https://icml.cc/Conferences/2022/ScheduleMultitrack?event=16588)   |   [Zifan Wang](https://www.kth.se/profile/zifanw) |               |          |    |
 |Week of Mar. 26|  Gaslighting in Partially Observable Systems  | Liu Shutian                      |               |          |    |
 |Week of Apr. 2 |     |    Tao Zhang                   |               |          |    |
-|Week of Apr. 9 |     |    Xiangjiang and Patrick                  |               |          |    ||
+|Week of Apr. 9 |  [Mean Field Game](https://drive.google.com/file/d/1IYx0w7Rs1xAvgwO6T3dK3cBWkMcCsz8H/view?usp=share_link)   |    Xiangjiang and Patrick                  |               |          |    ||
 |Week of Apr. 16|[Proactive Patrol](https://docs.google.com/presentation/d/1bjr8DJg2suQWDIRfZJxLf4FQx-xB_EWv/edit?usp=share_link&ouid=103638511263455437345&rtpof=true&sd=true)&[Traffic Congestion Attack on Recommendation System](https://drive.google.com/file/d/12knK1GVYFXS-acqu7GpypI88WWeF2Gqf/view?usp=share_link) |   Ya-ting and Haozhe           |               |          |    |
 |Week of Apr. 23| [Approximate Methods of Optimal Control via Dynamic Programming Models](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324294)  |  [Yuchao Li](https://yuchaotaigu.github.io/index.html)            |               |          |    |
 |Week of Apr. 30|     |    Yuhan Zhao                   |               |          |    |
