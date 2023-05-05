@@ -32,12 +32,12 @@
 |Week of Apr. 2 |     |    Tao Zhang                   |               |          |    |
 |Week of Apr. 9 |  [Mean Field Game](https://drive.google.com/file/d/1IYx0w7Rs1xAvgwO6T3dK3cBWkMcCsz8H/view?usp=share_link) &  [Sparsity Applications](https://drive.google.com/file/d/1kYD1OCya_o-_nFHbnWMc1IqgEyXGp567/view?usp=sharing)|    Xiangjiang and Patrick                  |               |          |    ||
 |Week of Apr. 16|[Proactive Patrol](https://docs.google.com/presentation/d/1bjr8DJg2suQWDIRfZJxLf4FQx-xB_EWv/edit?usp=share_link&ouid=103638511263455437345&rtpof=true&sd=true)&[Traffic Congestion Attack on Recommendation System](https://drive.google.com/file/d/12knK1GVYFXS-acqu7GpypI88WWeF2Gqf/view?usp=share_link) |   Ya-ting and Haozhe           |               |          |    |
-|Week of Apr. 23| [Approximate Methods of Optimal Control via Dynamic Programming Models](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324294)  |  [Yuchao Li](https://yuchaotaigu.github.io/index.html)            |               |          |    |
+|Week of Apr. 23| [Approximate Methods of Optimal Control via Dynamic Programming Models](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324294)  |  [Yuchao Li](https://yuchaotaigu.github.io/index.html)            |               |  [Zoom recording](https://nyu.zoom.us/rec/share/KyPz4PXBM2sbl9sWenfd6g5u8rjT6CAVpikQgJJ9rGJ82WyBK2Tj4JVyS4gYSSHZ.ZShemVojkXh5WzH1)        |    |
 |Week of Apr. 30|  [Computation Methods of Trajectory Optimization in Robotics](https://drive.google.com/file/d/1Z8rpb2FczWD34ZBkfcoTpYw7uthmVmyA/view?usp=sharing) |    Yuhan Zhao                   |               |          |    |
 |Week of May 7  |     |    Danny and Vijay                   |               |          |    |
-|Week of May 14 |     |  [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                  |               |          |    |
+|Week of May 14 |     |    Tao Li and Haozhe Lei               |               |          |    |
 |Week of May 21 |     |                       |               |          |    |
-|Week of May 28 |     |                       |               |          |    |
+|Week of May 28 |     |     [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                   |               |          |    |
 
 
 
