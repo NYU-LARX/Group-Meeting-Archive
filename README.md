@@ -40,5 +40,19 @@
 |Week of May 28 |     |     [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                   |               |          |    |
 
 
-
-
+## 2023 Summer
+| Date                | Title                | Presenter(s) | Comments |   |
+|---------------------|----------------------|--------------|----------|---|
+| Week of June 4      |                      |              |          |   |       
+| Week of June 11     |                      |              |          |   |
+| Week of June 18     |                      |              |          |   |
+| Week of June 25     |                      |              |          |   |
+| Week of July 2      |                      |              |          |   |
+| Week of July 9      |                      |              |          |   |
+| Week of July 16     |                      |              |          |   |
+| Week of July 23     |                      |              |          |   |
+| Week of July 30     |                      |              |          |   |
+| Week of Aug. 6      |                      |              |          |   |
+| Week of Aug. 13     |                      |              |          |   |
+| Week of Aug. 20     |                      |              |          |   |
+| Week of Aug. 27     |                      |              |          |   |
