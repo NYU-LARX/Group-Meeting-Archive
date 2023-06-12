@@ -50,7 +50,7 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of June 25     |                      |              |          |   |
 | Week of July 2      |                      |              |          |   |
 | Week of July 9      |  Decision Transformer| Tao Li       |          |   |
-| Week of July 16     |                      |              |          |   |
+| Week of July 16     |                      | Yuhan Zhao   |          |   |
 | Week of July 23     |                      |              |          |   |
 | Week of July 30     |                      |              |          |   |
 | Week of Aug. 6      |                      |              |          |   |
