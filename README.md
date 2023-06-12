@@ -53,7 +53,7 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of July 16     |                      | Yuhan Zhao   |          |   |
 | Week of July 23     |                      | Ya-Ting Yang |          |   |
 | Week of July 30     |                      |Xiangjiang Yang|          |   |
-| Week of Aug. 6      |                      |              |          |   |
+| Week of Aug. 6      | Diffusion Models     | Tao Li       |          |   |
 | Week of Aug. 13     |                      |              |          |   |
 | Week of Aug. 20     |                      |              |          |   |
 | Week of Aug. 27     |                      |              |          |   |
