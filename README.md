@@ -46,13 +46,13 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 |---------------------|----------------------|--------------|----------|---|
 | Week of June 4      |                      |              |          |   |       
 | Week of June 11     |                      |              |          |   |
-| Week of June 18     |                      |              |          |   |
-| Week of June 25     |                      |              |          |   |
+| Week of June 18     |                      |   Xinhong Xie|          |   |
+| Week of June 25     |                      |   Yunian Pan |          |   |
 | Week of July 2      |                      |              |          |   |
 | Week of July 9      |  Decision Transformer| Tao Li       |          |   |
 | Week of July 16     |                      | Yuhan Zhao   |          |   |
 | Week of July 23     |                      | Ya-Ting Yang |          |   |
-| Week of July 30     |                      |Xiangjiang Yang|          |   |
+| Week of July 30     |                      |Xiangjiang Yang|         |   |
 | Week of Aug. 6      | Diffusion Models     | Tao Li       |          |   |
 | Week of Aug. 13     |                      |              |          |   |
 | Week of Aug. 20     |                      |              |          |   |
