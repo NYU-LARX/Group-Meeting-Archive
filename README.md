@@ -38,7 +38,7 @@
 |Week of May 14 |  Learning Optimal Intrusion Responses for
 IT Infrastructures via Decomposition   |     Kim Hammer             |               |          |    |
 |Week of May 21 |   [Self-Adaptive Driving in Nonstationary Environments through Conjectural Online Lookahead Adaptation](https://arxiv.org/abs/2210.03209)  |                 Tao Li and Haozhe Lei       |               |          |    |
-|Week of May 28 |     |     [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                   |               |          |    |
+|Week of May 28 | [Complexity-aware Decision-Making for Large-scale and Human-in-the-loop Systems](http://kth.diva-portal.org/smash/get/diva2:1758758/FULLTEXT01.pdf)    |     [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                   |               |          |    |
 
 
 ## 2023 Summer
