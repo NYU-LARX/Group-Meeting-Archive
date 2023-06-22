@@ -48,7 +48,7 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of June 11     |                      |              |          |   |
 | Week of June 18     |   Transformer in RL  |   Xinhong Xie|          |   |
 | Week of June 25     | Variational Bayes Methods |   Yunian Pan | Emerging Topics in AI |   |
-| Week of July 2      |                      |              |          |   |
+| Week of July 2      |An Introduction on Transformer|  Boyuan Chen  |  Emerging Topics in AI |   |
 | Week of July 9      |  Decision Transformer| Tao Li       | Emerging Topics in AI |   |
 | Week of July 16     |                      | Yuhan Zhao   |          |   |
 | Week of July 23     |                      | Ya-Ting Yang |          |   |
