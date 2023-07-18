@@ -55,5 +55,5 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of July 30     |                      |Xiangjiang Yang|         |   |
 | Week of Aug. 6      | Diffusion Models     | Tao Li       |Emerging Topics in AI|   |
 | Week of Aug. 13     |                      | Haozhe Lei  |          |   |
-| Week of Aug. 20     |                      |              |          |   |
+| Week of Aug. 20     | Automated Penetration  Testing   | Yunfei Ge      |          |   |
 | Week of Aug. 27     | Python Interface with SUMO  |  Yunian Pan  |          |   |
