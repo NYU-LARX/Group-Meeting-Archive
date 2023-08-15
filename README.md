@@ -54,6 +54,11 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of July 23     |  [Koopman Operator](https://yuhan16.github.io/assets/pdf/Koopman_intro.pdf)  | Yuhan Zhao |          |   |
 | Week of July 30     |                      |Yating Yang|         |   |
 | Week of Aug. 6      |                      |        ||   |
-| Week of Aug. 13     |                      | Haozhe Lei  |          |   |
-| Week of Aug. 20     | Automated Penetration  Testing   | Yunfei Ge      |          |   |
-| Week of Aug. 27     | Python Interface with SUMO  |  Yunian Pan  |          |   |
+| Week of Aug. 13      |  Work shop                    |        ||   |
+| Week of Aug. 20     |                      | Haozhe Lei  |          |   |
+| Week of Aug. 27     | Automated Penetration  Testing   | Yunfei Ge      |          |   |
+
+## 2023 Fall
+| Date                | Title                | Presenter(s) | Comments |   |
+|---------------------|----------------------|--------------|----------|---|
+| Week of Sept. 3     | Python Interface with SUMO  |  Yunian Pan  |          |   |
