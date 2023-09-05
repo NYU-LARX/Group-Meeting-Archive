@@ -50,15 +50,16 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of June 25     | [Variational Bayes Methods](https://drive.google.com/file/d/1jQdN2T_NOm9D_Ld0o9I7tW09rqlodl6Q/view?usp=sharing), [code](https://github.com/UnionPan/BayesianInference) |   Yunian Pan | Emerging Topics in AI |   |
 | Week of July 2      |An Introduction on Transformer|  Boyuan Chen  |  Emerging Topics in AI |   |
 | Week of July 9      |  Trajectory Transformer| Juan and Tao Li       | Emerging Topics in AI |   |
-| Week of July 16     |   Transformer in MARL                   | Tao Li   |   Emerging Topics in AI       |   |
+| Week of July 16     |   [Transformer in MARL](https://drive.google.com/file/d/1s_stoXOngC5ckx1Yk-v1IGDdWDyOJnu0/view?usp=sharing)                   | Tao Li   |   Emerging Topics in AI       |   |
 | Week of July 23     |  [Koopman Operator](https://yuhan16.github.io/assets/pdf/Koopman_intro.pdf)  | Yuhan Zhao |          |   |
-| Week of July 30     |                      |Yating Yang|         |   |
+| Week of July 30     |  [Designing Policies for Truth](https://docs.google.com/presentation/d/1f8ggSSZYQTnzl9dn5ly1YelaF1zda9aa/edit?usp=sharing&ouid=112820005310673814910&rtpof=true&sd=true)                    |Yating Yang|         |   |
 | Week of Aug. 6      |                      |        ||   |
 | Week of Aug. 13      |  Work shop                    |        ||   |
 | Week of Aug. 20     |                      | Haozhe Lei  |          |   |
 | Week of Aug. 27     | Automated Penetration  Testing   | Yunfei Ge      |          |   |
 
-## 2023 Fall
+## 2023 Fall [Zoom Link](https://nyu.zoom.us/j/94672827796)
 | Date                | Title                | Presenter(s) | Comments |   |
 |---------------------|----------------------|--------------|----------|---|
-| Week of Sept. 3     | Python Interface with SUMO  |  Yunian Pan  |          |   |
+| Week of Sept. 3     |Complexity-aware set-based methods in analysis and control| Nikos Athanasopoulos |    |      |
+| Week of Sept. 10    | Python Interface with SUMO  |  Yunian Pan  |          |   |
