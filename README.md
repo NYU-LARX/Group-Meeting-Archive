@@ -63,3 +63,18 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 |---------------------|----------------------|--------------|----------|---|
 | Week of Sept. 3     |Complexity-aware set-based methods in analysis and control| Nikos Athanasopoulos |    |      |
 | Week of Sept. 10    | Python Interface with SUMO  |  Yunian Pan  |          |   |
+| Week of Sept. 17    |                             |              |          |   |
+| Week of Sept. 24    |                             |              |          |   |
+| Week of Oct. 1      |                             |              |          |   |
+| Week of Oct. 8      |                             |              |          |   |
+| Week of Oct. 15     |                             |              |          |    |
+| Week of Oct. 22     |                             |              |          |    |
+| Week of Oct. 29     |                             |              |          |    |
+| Week of Nov. 5      |                             |              |          |    |
+| Week of Nov. 12     |                             |              |          |    |
+| Week of Nov. 19     |                             |              |          |    |
+| Week of Nov. 26     |                             |              |          |    |
+| Week of Dec. 3      |                             |              |          |    |
+| Week of Dec. 10     |                             |              |          |    |
+| Week of Dec. 17     |                             |              |          |    |
+
