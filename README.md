@@ -65,7 +65,7 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of Sept. 10    | Python Interface with SUMO  |  Yunian Pan  |          |   |
 | Week of Sept. 17    |                             |              |          |   |
 | Week of Sept. 24    |                             |              |          |   |
-| Week of Oct. 1      |                             |              |          |   |
+| Week of Oct. 1      |                             | Ya-Ting Yang |          |   |
 | Week of Oct. 8      |                             |              |          |   |
 | Week of Oct. 15     |                             |              |          |    |
 | Week of Oct. 22     |                             |              |          |    |
