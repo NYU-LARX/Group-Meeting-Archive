@@ -63,7 +63,7 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 |---------------------|----------------------|--------------|----------|---|
 | Week of Sept. 3     |Complexity-aware set-based methods in analysis and control| Nikos Athanasopoulos |    |      |
 | Week of Sept. 10    | Python Interface with SUMO  |  Yunian Pan  |          |   |
-| Week of Sept. 17    |                             |[Bora Yongacoglu](https://yongac.github.io/)|          |   |
+| Week of Sept. 17    |Satisficing Paths: Structural Properties Relevant for Learning and Dynamics in Games|[Bora Yongacoglu](https://yongac.github.io/)|          |   |
 | Week of Sept. 24    |                             |              |          |   |
 | Week of Oct. 1      |                             | Ya-Ting Yang |          |   |
 | Week of Oct. 8      |                             |              |          |   |
