@@ -65,8 +65,8 @@ IT Infrastructures via Decomposition   |     Kim Hammer             |           
 | Week of Sept. 10    | Python Interface with SUMO  |  Yunian Pan  |          |   |
 | Week of Sept. 17    |[Satisficing Paths: Structural Properties Relevant for Learning and Dynamics in Games](https://epubs.siam.org/doi/full/10.1137/22M1515112)|[Bora Yongacoglu](https://yongac.github.io/)|     | [Zoom recording](https://nyu.zoom.us/rec/share/aj96qkz-bGcExGCXD8yWR8pe9p9Hp6nLzO1P0YfKKYwyvKhD2qeb16mT6DtHbH8f.E_kIrmsc-l2o6Dkw) |
 | Week of Sept. 24    |                             |              |          |   |
-| Week of Oct. 1      |                             | Ya-Ting Yang |          |   |
-| Week of Oct. 8      |                             |              |          |   |
+| Week of Oct. 1      |                             | Bianzi Lin|          |   |
+| Week of Oct. 8      |                             |   Ya-Ting Yang           |          |   |
 | Week of Oct. 15     |                             |              |          |    |
 | Week of Oct. 22     |                             |              |          |    |
 | Week of Oct. 29     |                             |              |          |    |
