@@ -35,8 +35,7 @@
 |Week of Apr. 23| [Approximate Methods of Optimal Control via Dynamic Programming Models](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-324294)  |  [Yuchao Li](https://yuchaotaigu.github.io/index.html)            |               |  [Zoom recording](https://nyu.zoom.us/rec/share/KyPz4PXBM2sbl9sWenfd6g5u8rjT6CAVpikQgJJ9rGJ82WyBK2Tj4JVyS4gYSSHZ.ZShemVojkXh5WzH1)        |    |
 |Week of Apr. 30|  [Computation Methods of Trajectory Optimization in Robotics](https://drive.google.com/file/d/1Z8rpb2FczWD34ZBkfcoTpYw7uthmVmyA/view?usp=sharing) |    Yuhan Zhao                   |               |          |    |
 |Week of May 7  |   Inferring IoT Software Bills of Materials at Scale  |    Danny and Vijay                   |               |    [Zoom recording](https://nyu.zoom.us/rec/share/SmJnNkVhEGoxOtvDL8KYBPnM4DW5zwaeVaYpS9_W-1QqNJ6vM7VbqAmTIERI-hvW.em2ZvLwB6ohwDvJw)      |    |
-|Week of May 14 |  Learning Optimal Intrusion Responses for
-IT Infrastructures via Decomposition   |     Kim Hammer             |               |          |    |
+|Week of May 14 |  Learning Optimal Intrusion Responses for IT Infrastructures via Decomposition   |     Kim Hammer             |               |          |    |
 |Week of May 21 |   [Self-Adaptive Driving in Nonstationary Environments through Conjectural Online Lookahead Adaptation](https://arxiv.org/abs/2210.03209)  |                 Tao Li and Haozhe Lei       |               |          |    |
 |Week of May 28 | [Complexity-aware Decision-Making for Large-scale and Human-in-the-loop Systems](http://kth.diva-portal.org/smash/get/diva2:1758758/FULLTEXT01.pdf)    |     [Ellis Stefansson](https://www.kth.se/profile/elisst?l=en)                   |               |          |    |
 
