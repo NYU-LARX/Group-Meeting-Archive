@@ -66,8 +66,8 @@
 | Week of Sept. 24    |                             |              |          |   |
 | Week of Oct. 1      |  MSinT: a Multi-view Spatio-Informed Transformer for Overweighted Vehicle Forecasting                           | Bianzi Lin (From Prof. Ozbay's Group)|          |   |
 | Week of Oct. 8      |                             |   Ya-Ting Yang           |          |   |
-| Week of Oct. 15     |                             |              |          |    |
-| Week of Oct. 22     |                             |              |          |    |
+| Week of Oct. 15     |                             |         |          |    |
+| Week of Oct. 22     | Self-Confirming Transformer in Offline MARL|    Tao Li    |          |    |
 | Week of Oct. 29     |                             |              |          |    |
 | Week of Nov. 5      |                             |              |          |    |
 | Week of Nov. 12     |                             |              |          |    |
