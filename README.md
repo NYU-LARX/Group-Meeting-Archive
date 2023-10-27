@@ -67,7 +67,7 @@
 | Week of Oct. 1      |  MSinT: a Multi-view Spatio-Informed Transformer for Overweighted Vehicle Forecasting                           | Bianzi Lin (From Prof. Ozbay's Group)|          |   |
 | Week of Oct. 8      |                             |   Ya-Ting Yang           |          |   |
 | Week of Oct. 15     | An Overview of Neural-Symbolic Learning    | Haozhe Lei |          |    |
-| Week of Oct. 22     | Self-Confirming Transformer in Offline MARL|    Tao Li    |          |    |
+| Week of Oct. 22     | [Self-Confirming Transformer in Offline MARL](https://drive.google.com/file/d/1rmzFSQO9QsmSENx5nCXp0ZrhcjyWRYgg/view?usp=sharing)|    Tao Li    |          |    |
 | Week of Oct. 29     |                             | Shizhen Jia  |          |    |
 | Week of Nov. 5      |                             |              |          |    |
 | Week of Nov. 12     |                             |              |          |    |
