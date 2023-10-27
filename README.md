@@ -70,7 +70,7 @@
 | Week of Oct. 22     | [Self-Confirming Transformer in Offline MARL](https://drive.google.com/file/d/1rmzFSQO9QsmSENx5nCXp0ZrhcjyWRYgg/view?usp=sharing)|    Tao Li    |          |    |
 | Week of Oct. 29     |                             | Shizhen Jia  |          |    |
 | Week of Nov. 5      |                             |              |          |    |
-| Week of Nov. 12     |                             |              |          |    |
+| Week of Nov. 12     |                             |Shutian Liu   |          |    |
 | Week of Nov. 19     |                             |              |          |    |
 | Week of Nov. 26     |                             |              |          |    |
 | Week of Dec. 3      |                             |              |          |    |
