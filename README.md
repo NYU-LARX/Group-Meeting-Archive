@@ -51,7 +51,7 @@
 | Week of July 9      |  [Trajectory Transformer](https://docs.google.com/presentation/d/1mu84xcp6B4QNvaAFPlm6gn6F4XUMaRPWZMaPHeWIgZ4/edit?usp=sharing)| Juan and Tao Li       | Emerging Topics in AI |   |
 | Week of July 16     |   [Transformer in MARL](https://drive.google.com/file/d/1s_stoXOngC5ckx1Yk-v1IGDdWDyOJnu0/view?usp=sharing)                   | Tao Li   |   Emerging Topics in AI       |   |
 | Week of July 23     |  [Koopman Operator](https://yuhan16.github.io/assets/pdf/Koopman_intro.pdf)  | Yuhan Zhao |          |   |
-| Week of July 30     |  [Designing Policies for Truth](https://docs.google.com/presentation/d/1f8ggSSZYQTnzl9dn5ly1YelaF1zda9aa/edit?usp=sharing&ouid=112820005310673814910&rtpof=true&sd=true)                    |Yating Yang|         |   |
+| Week of July 30     |  [Designing Policies for Truth](https://docs.google.com/presentation/d/1f8ggSSZYQTnzl9dn5ly1YelaF1zda9aa/edit?usp=sharing&ouid=112820005310673814910&rtpof=true&sd=true)                    |Ya-Ting Yang|         |   |
 | Week of Aug. 6      |                      |        ||   |
 | Week of Aug. 13      |  Work shop                    |        ||   |
 | Week of Aug. 20     |                      | Haozhe Lei  |          |   |
@@ -65,7 +65,7 @@
 | Week of Sept. 17    |[Satisficing Paths: Structural Properties Relevant for Learning and Dynamics in Games](https://epubs.siam.org/doi/full/10.1137/22M1515112)|[Bora Yongacoglu](https://yongac.github.io/)|     | [Zoom recording](https://nyu.zoom.us/rec/share/aj96qkz-bGcExGCXD8yWR8pe9p9Hp6nLzO1P0YfKKYwyvKhD2qeb16mT6DtHbH8f.E_kIrmsc-l2o6Dkw) |
 | Week of Sept. 24    |                             |              |  Cancelled        |   |
 | Week of Oct. 1      |  MSinT: a Multi-view Spatio-Informed Transformer for Overweighted Vehicle Forecasting                           | Bianzi Lin (From Prof. Ozbay's Group)|          |   |
-| Week of Oct. 8      |                             |   Ya-Ting Yang           |          |   |
+| Week of Oct. 8      | [Auditing Differentially Private Algorithms with Epistemically Disparate Herd](https://drive.google.com/file/d/16i_iausZ5kpEiOgJiQcwjOG73yCjCqUU/view?usp=sharing) |   Ya-Ting Yang   |          |   |
 | Week of Oct. 15     | An Overview of Neural-Symbolic Learning    | Haozhe Lei |          |    |
 | Week of Oct. 22     | [Self-Confirming Transformer in Offline MARL](https://drive.google.com/file/d/1rmzFSQO9QsmSENx5nCXp0ZrhcjyWRYgg/view?usp=sharing)|    Tao Li    |          |    |
 | Week of Oct. 29     |                             |              |          |    |
@@ -74,6 +74,6 @@
 | Week of Nov. 19     |                             |              |          |    |
 | Week of Nov. 26     |                             |              |          |    |
 | Week of Dec. 3      |                             |              |          |    |
-| Week of Dec. 10     |                             |              |          |    |
+| Week of Dec. 10     | Information Attacks on Navigational Recommendations in ITS | Ya-Ting Yang |          |    |
 | Week of Dec. 17     |                             |              |          |    |
 
