@@ -68,8 +68,8 @@
 | Week of Oct. 8      | [Auditing Differentially Private Algorithms with Epistemically Disparate Herd](https://drive.google.com/file/d/16i_iausZ5kpEiOgJiQcwjOG73yCjCqUU/view?usp=sharing) |   Ya-Ting Yang   |          |   |
 | Week of Oct. 15     | An Overview of Neural-Symbolic Learning    | Haozhe Lei |          |    |
 | Week of Oct. 22     | [Self-Confirming Transformer in Offline MARL](https://drive.google.com/file/d/1rmzFSQO9QsmSENx5nCXp0ZrhcjyWRYgg/view?usp=sharing)|    Tao Li    |          |    |
-| Week of Oct. 29     |                             |              |          |    |
-| Week of Nov. 5      |                             |              |          |    |
+| Week of Oct. 29     |                             |              | Canceled|    |
+| Week of Nov. 5      |                             |              | CSAW Week|    |
 | Week of Nov. 12     |                             |Shutian Liu   |          |    |
 | Week of Nov. 19     |                             |              |          |    |
 | Week of Nov. 26     |                             |              |          |    |
