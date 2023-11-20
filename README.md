@@ -71,8 +71,8 @@
 | Week of Oct. 29     |                             |              | Canceled|    |
 | Week of Nov. 5      |                             |              | CSAW Week|    |
 | Week of Nov. 12     |                             |Shutian Liu   |          |    |
-| Week of Nov. 19     |                             |              |          |    |
-| Week of Nov. 26     |                             |              |          |    |
+| Week of Nov. 19     |                             |              |Thanksgiving Week|    |
+| Week of Nov. 26     | Price of Transparency       |  Tao Li      |          |    |
 | Week of Dec. 3      |                             |              |          |    |
 | Week of Dec. 10     | Information Attacks on Navigational Recommendations in ITS | Ya-Ting Yang |          |    |
 | Week of Dec. 17     |                             |              |          |    |
